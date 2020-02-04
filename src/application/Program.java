@@ -70,6 +70,8 @@ public class Program {
 		}
 		
 		sc.close();
+		
+		//Teste de commit
 	}
 
 }
